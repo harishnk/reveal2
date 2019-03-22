@@ -1,0 +1,277 @@
+{
+    "name": "Harish",
+    "children": [
+        {
+            "name": "Simon",
+            "children": [
+                {
+                    "name": "Rolando",
+                    "size": 8833
+                },
+                {
+                    "name": "Lap Kan",
+                    "size": 1732
+                },
+                {
+                    "name": "Rahul",
+                    "size": 1732
+                },
+                {
+                    "name": "Dwaipayan",
+                    "size": 1732
+                },
+                {
+                    "name": "Praveen",
+                    "size": 1732
+                },
+                {
+                    "name": "Zhong",
+                    "size": 1732
+                }
+
+            ]
+        },
+        {
+            "name": "Ram",
+            "children": [
+                {
+                    "name": "Pallavi",
+                    "size": 8833
+                },
+                {
+                    "name": "Naveen",
+                    "size": 1732
+                },
+                {
+                    "name": "Bala",
+                    "size": 1732
+                },
+                {
+                    "name": "Arun",
+                    "size": 1732
+                }
+            ]
+        },
+        {
+            "name": "Anuj",
+            "children": [
+                {
+                    "name": "Sakthi",
+                    "children": [
+                        {
+                            "name": "Rohit",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Siva",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Senthil",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Sirisha",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Taru",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Subhash",
+                            "size": 3812
+                        }
+                    ]
+                },
+                {
+                    "name": "Srini",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Gaurav",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Dharma",
+                    "size": 3534                    
+                }                
+            ]
+        },        
+        {
+            "name": "Hong",
+            "children": [
+                {
+                    "name": "Gary",
+                    "children": [
+                        {
+                            "name": "German",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Josh",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Xu",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Di",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Matt",
+                            "size": 3812
+                        },
+                        {
+                            "name": "Pan",
+                            "size": 3812
+                        }                        
+                    ]
+                },
+                {
+                    "name": "Jun",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Yi",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Sheila",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Paul",
+                    "size": 3534                    
+                },    
+                {
+                    "name": "Ilia",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Leszek",
+                    "size": 3534                    
+                }, 
+                {
+                    "name": "Osama",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Fei",
+                    "size": 3534                    
+                }                           
+            ]
+        },
+        {
+            "name": "Dennis",
+            "children": [
+                {
+                    "name": "Navneet",
+                    "children": [
+                        {
+                            "name": "Rahul M.",
+                            "size": 3938
+                        },
+                        {
+                            "name": "Ramesh",
+                            "size": 3812
+                        }
+                    ]
+                },
+                {
+                    "name": "Deb",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Hari",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Yuliya",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Chi",
+                    "size": 3534                    
+                },
+                {
+                    "name": "Vikram",
+                    "size": 3534                    
+                }                
+            ]
+        },
+        {
+            "name": "Calixte",
+            "children": [
+                {
+                    "name": "Aashish",
+                    "size": 8833
+                },
+                {
+                    "name": "Ayushi",
+                    "size": 1732
+                },
+                {
+                    "name": "Ramreddy",
+                    "size": 1732
+                },
+                {
+                    "name": "Manish",
+                    "size": 1732
+                },
+                {
+                    "name": "Tom",
+                    "size": 1732
+                },
+                {
+                    "name": "John",
+                    "size": 1732
+                }
+
+            ]
+        },
+        {
+            "name": "Jeff",
+            "children": [
+                {
+                    "name": "Venkata",
+                    "size": 8833
+                },
+                {
+                    "name": "Sudhir",
+                    "size": 1732
+                },
+                {
+                    "name": "Yong",
+                    "size": 1732
+                },
+                {
+                    "name": "Rakesh",
+                    "size": 1732
+                },
+                {
+                    "name": "Manny",
+                    "size": 1732
+                },
+                {
+                    "name": "Alex",
+                    "size": 1732
+                },
+                {
+                    "name": "Maha",
+                    "size": 1732
+                },                
+                {
+                    "name": "Pawan",
+                    "size": 1732
+                },
+                {
+                    "name": "Sowmi",
+                    "size": 1732
+                }
+            ]
+        }
+    ]
+}
